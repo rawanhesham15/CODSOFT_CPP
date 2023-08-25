@@ -6,3 +6,6 @@ high or too low until the user guesses the correct number. </p>
 
 <h3> ◼️ Task-2: Simple Calculator </h3>
 <p> calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. </p>
+
+<h3> ◼️ Task-2: Tic Tac Toe Game </h3>
+<p> simple console-based Tic-Tac-Toe game that allows two players to play against each other. </p>
