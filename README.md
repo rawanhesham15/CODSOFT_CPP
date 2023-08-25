@@ -9,3 +9,6 @@ high or too low until the user guesses the correct number. </p>
 
 <h3> ◼️ Task-3: Tic Tac Toe Game </h3>
 <p> simple console-based Tic-Tac-Toe game that allows two players to play against each other. </p>
+
+<h3> ◼️ Task-4: To Do List</h3>
+<p> simple console-based to-do list manager that allows users to add, view, edit, delete tasks, and marks tasks as completed. </p>
