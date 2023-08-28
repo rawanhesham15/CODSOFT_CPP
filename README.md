@@ -12,3 +12,6 @@ high or too low until the user guesses the correct number. </p>
 
 <h3> ◼️ Task-4: To Do List</h3>
 <p> simple console-based to-do list manager that allows users to add, view, edit, delete tasks, and marks tasks as completed. </p>
+
+<h3> ◼️ Task-5: Movie Ticket Booking System</h3>
+<p> program that simulates a movie ticket booking system. Allow users to view movie listings, select seats, make bookings, and calculate the total cost. </p>
